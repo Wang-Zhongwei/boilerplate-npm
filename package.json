@@ -11,8 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": {
-		"name": "Zhongwei Wang",
-		"email": "jonathan_wang1999@icloud.com"}
+	}
 }
