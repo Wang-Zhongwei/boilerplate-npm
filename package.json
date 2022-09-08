@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Zhongwei Wang",
 	"description": "Learn how to use package.json",
+	"keywords": ["first", "package"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
