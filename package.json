@@ -3,6 +3,8 @@
 	"author": "Zhongwei Wang",
 	"description": "Learn how to use package.json",
 	"keywords": ["first", "package", "freecodecamp"],
+	"license": "MIT",
+	"Version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
